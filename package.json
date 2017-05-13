@@ -1,0 +1,14 @@
+{
+  "name": "drama-notifier",
+  "version": "1.0.0",
+  "description": "Notify lastest episode via Telegram.",
+  "main": "index.js",
+  "author": "Jack Lai",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.50.0",
+    "cheerio": "^0.22.0",
+    "node-telegram-bot-api": "^0.27.1",
+    "request": "^2.81.0"
+  }
+}
